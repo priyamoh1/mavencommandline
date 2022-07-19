@@ -11,7 +11,7 @@ public void m1()
 	
 }
 	@Test
-	public void m2()
+	public void a1()
 	{
 		System.out.println("hello");
 		System.out.println("hello");
