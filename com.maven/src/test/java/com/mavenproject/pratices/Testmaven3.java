@@ -8,6 +8,13 @@ public class Testmaven3
 	public void m3()
 	{
 		System.out.println("hii");
+		System.out.println("bye");
+	}
+	@Test
+	public void m4()
+	{
+		System.out.println("hii");
+		System.out.println("bye");
 	}
 
 }
