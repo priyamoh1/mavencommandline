@@ -7,6 +7,7 @@ public class TestMaven4
 	@Test
 public void m1() 
 {
+		System.out.println("haha");
 	
 }
 }
