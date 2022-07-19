@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-18T16:20:26 IST" name="Suite" finished-at="2022-07-18T16:20:26 IST" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2022-07-18T16:20:26 IST" name="Test" finished-at="2022-07-18T16:20:26 IST" duration-ms="83">
+      <class name="com.mavenproject.pratices.TestMaven2Test">
+        <test-method signature="maven2test()[pri:0, instance:com.mavenproject.pratices.TestMaven2Test@56cdfb3b]" started-at="2022-07-18T16:20:26 IST" name="maven2test" finished-at="2022-07-18T16:20:26 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven2test -->
+        <test-method signature="maven3Test()[pri:0, instance:com.mavenproject.pratices.TestMaven2Test@56cdfb3b]" started-at="2022-07-18T16:20:26 IST" name="maven3Test" finished-at="2022-07-18T16:20:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maven3Test -->
+      </class> <!-- com.mavenproject.pratices.TestMaven2Test -->
+      <class name="com.mavenproject.pratices.TestMavenTest">
+        <test-method signature="test3maventest()[pri:0, instance:com.mavenproject.pratices.TestMavenTest@7c24b813]" started-at="2022-07-18T16:20:26 IST" name="test3maventest" finished-at="2022-07-18T16:20:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3maventest -->
+        <test-method signature="testMavenTest()[pri:0, instance:com.mavenproject.pratices.TestMavenTest@7c24b813]" started-at="2022-07-18T16:20:26 IST" name="testMavenTest" finished-at="2022-07-18T16:20:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMavenTest -->
+      </class> <!-- com.mavenproject.pratices.TestMavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

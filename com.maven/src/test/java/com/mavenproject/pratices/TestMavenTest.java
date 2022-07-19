@@ -1,0 +1,19 @@
+package com.mavenproject.pratices;
+
+import org.testng.annotations.Test;
+
+public class TestMavenTest
+{
+	@Test
+
+	public void testMavenTest()
+	{
+		System.out.println("pass");
+	}
+	@Test
+	public void test3maventest()
+	{
+		System.out.println("bye");
+	}
+	
+}
