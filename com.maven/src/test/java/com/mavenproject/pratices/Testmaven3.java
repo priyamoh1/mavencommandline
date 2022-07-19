@@ -16,5 +16,11 @@ public class Testmaven3
 		System.out.println("hii");
 		System.out.println("bye");
 	}
+	@Test
+	public void m5()
+	{
+		System.out.println("hii");
+		System.out.println("bye");
+	}
 
 }
