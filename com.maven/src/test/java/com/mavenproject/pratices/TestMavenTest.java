@@ -15,5 +15,10 @@ public class TestMavenTest
 	{
 		System.out.println("bye");
 	}
+	@Test
+	public void m1()
+	{
+		
+	}
 	
 }
