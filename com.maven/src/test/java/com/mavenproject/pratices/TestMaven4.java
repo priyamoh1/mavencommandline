@@ -10,4 +10,9 @@ public void m1()
 		System.out.println("haha");
 	
 }
+	@Test
+	public void m2()
+	{
+		System.out.println("hello");
+	}
 }
