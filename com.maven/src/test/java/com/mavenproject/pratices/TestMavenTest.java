@@ -20,6 +20,7 @@ public class TestMavenTest
 	{
 		System.out.println("lala");
 		System.out.println("lala");
+		System.out.println("lala");
 	}
 	
 }
