@@ -24,6 +24,7 @@ public class TestMavenTest
 	public void m2()
 	{
 		System.out.println("lala");
+		System.out.println("lala");
 	}
 	
 }
