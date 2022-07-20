@@ -20,5 +20,10 @@ public class TestMavenTest
 	{
 		System.out.println("lala");
 	}
+	@Test
+	public void m2()
+	{
+		System.out.println("lala");
+	}
 	
 }
