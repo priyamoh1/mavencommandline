@@ -19,6 +19,7 @@ public class TestMavenTest
 	public void m1()
 	{
 		System.out.println("lala");
+		System.out.println("lala");
 	}
 	
 }
